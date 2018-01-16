@@ -3,7 +3,7 @@ A site bot build using [rasa-nlu](http://rasa.ai).
 
 ## Setup
 1. if you are using Ubuntu
-    `pip install -r requirement.txt`
+    `pip install -r requirements.txt`
 
 2. If you are using windows machine
     `pip install -r requirement.txt`
